@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: Kemibrug, Tenant: ondfisk External (ondfiskexternal.onmicrosoft.com - Microsoft Entra External ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
